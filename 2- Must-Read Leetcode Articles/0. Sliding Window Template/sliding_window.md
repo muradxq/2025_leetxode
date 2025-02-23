@@ -8,7 +8,7 @@
 
 Essentially, we want tokeep the window validat the end of each outer for-loop.
 
-```
+```python
 i=0
 ans=0
 for j in range(0, N):
