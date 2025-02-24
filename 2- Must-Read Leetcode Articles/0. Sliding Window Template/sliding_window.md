@@ -20,8 +20,9 @@
     ans = max(ans, j - i + 1);
   return ans
   ```
+##### Examples:
 
-##### 1493. Longest Subarray of 1's After Deleting One Element
+- ##### 1493. Longest Subarray of 1's After Deleting One Element
 - https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/
 
   ```python
