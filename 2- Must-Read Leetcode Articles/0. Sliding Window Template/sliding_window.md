@@ -27,10 +27,6 @@
   ```python
   class Solution(object):
       def longestSubarray(self, nums):
-          """
-          :type nums: List[int]
-          :rtype: int
-          """
           ans = 0
           i = 0
           sumv =0
