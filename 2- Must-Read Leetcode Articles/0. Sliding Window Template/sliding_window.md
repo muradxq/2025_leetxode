@@ -6,7 +6,7 @@
 
 #### Template 1: Sliding Window (Shrinkable)
 
-  Essentially, we want tokeep the window validat the end of each outer for-loop.
+  Essentially, we want to keep the window validat the end of each outer for-loop.
   
   ```python
   i=0
