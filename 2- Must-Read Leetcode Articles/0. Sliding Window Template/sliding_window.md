@@ -46,7 +46,8 @@
 
 
 
-  3. (Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+
+- (Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
      
 159. Longest Substring with At Most Two Distinct Characters (Medium)
 340. Longest Substring with At Most K Distinct Characters
