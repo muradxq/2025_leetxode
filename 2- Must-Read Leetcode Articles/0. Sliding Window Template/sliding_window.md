@@ -61,7 +61,7 @@
 - [2009. Minimum Number of Operations to Make Array Continuous](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/description/)
 - [2024. Maximize the Confusion of an Exam](https://leetcode.com/problems/maximize-the-confusion-of-an-exam/description/)
 
-##### The following problems are also solvable using the shrinkable template with the [At Most to Equal trick] (https://leetcode.com/problems/count-vowel-substrings-of-a-string/solutions/1563765/c-on-time-sliding-window/comments/1141941/)
+##### The following problems are also solvable using the shrinkable template with the [At Most to Equal trick](https://leetcode.com/problems/count-vowel-substrings-of-a-string/solutions/1563765/c-on-time-sliding-window/comments/1141941/)
 
 - [930. Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/)
 - [992. Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/description/)
