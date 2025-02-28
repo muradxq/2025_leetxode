@@ -6,13 +6,13 @@
 ### Template: There are four categories of problems:
    ####  1. Running from both ends of an array
    > [!NOTE]
-   > example:
+   > Note:
 
   ```python 
   ```
    #### 2. Slow & Fast Pointers
    > [!NOTE]
-   > 
+   > Note:
 
   Example:
   ```python 
@@ -20,14 +20,14 @@
 
    #### 3. Running from beginning of 2 arrays / Merging 2 arrays
    > [!NOTE]
-   > 
+   > Note:
 
   ```python 
   ```
 
    #### 4. Split & Merge of an array / Divide & Conquer
    > [!NOTE]
-   > 
+   > Note:
 
   ```python 
   ```
