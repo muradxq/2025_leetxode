@@ -32,7 +32,7 @@
    
    - #### Reversing / Swapping
       - [344. Reverse String](https://leetcode.com/problems/reverse-string/)
-      - [https://leetcode.com/problems/valid-palindrome/description/](https://leetcode.com/problems/valid-palindrome/)
+      - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
       - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
       - [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
       - [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
