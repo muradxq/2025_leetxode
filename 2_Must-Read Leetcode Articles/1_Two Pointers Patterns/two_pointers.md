@@ -144,4 +144,12 @@
 
    ## 4. Split & Merge of an array / Divide & Conquer
    > [!IMPORTANT]
-   > Note:
+   > Note: The last one is similiar to previous category but there is one thing is added. First, you need to split the given list into 2 separate lists and then do two pointers approach to merge or unify them. There aren't many tasks here.
+
+   - #### Partition
+   - [ ] [86. Partition List](https://leetcode.com/problems/partition-list/)
+   - #### Sorting
+   - [ ] [148. Sort List](https://leetcode.com/problems/sort-list/)
+     
+
+
