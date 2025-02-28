@@ -6,7 +6,12 @@
 
 #### Template: Sliding Window (Shrinkable)
   The key idea is to keep the window valid at the end of each outer for-loop.
-  
+  > [!IMPORTANT]
+  > Define the state:
+            # (1) which data structure?
+            # (2) how to update it with nums[j]?
+            # (3) how to update it with nums[i]?
+            # (4) what is a vaild state?
   ```python
   i=0
   ans=0
@@ -20,6 +25,7 @@
     ans = max(ans, j - i + 1);
   return ans
   ```
+
 
 #### Examples:
 
