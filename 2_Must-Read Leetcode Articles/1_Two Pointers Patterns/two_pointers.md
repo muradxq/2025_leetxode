@@ -10,7 +10,7 @@
       
    - #### Two Sum problems
       - [x] [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-      - [ ] [15. 3Sum](https://leetcode.com/problems/3sum/)
+      - [x] [15. 3Sum](https://leetcode.com/problems/3sum/)
       - [ ] [18. 4Sum](https://leetcode.com/problems/4sum/)
       - [ ] [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
       - [ ] [653. Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)
