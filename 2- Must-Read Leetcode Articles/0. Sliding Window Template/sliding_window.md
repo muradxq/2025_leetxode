@@ -8,10 +8,10 @@
   The key idea is to keep the window valid at the end of each outer for-loop.
   > [!IMPORTANT]
   > #### How to define the state:
-    > - which data structure?
-    > - how to update it with nums[j]?
-    > - how to update it with nums[i]?
-    > - what is a vaild state? 
+  > - which data structure?
+  > - how to update it with nums[j]?
+  > - how to update it with nums[i]?
+  > - what is a vaild state? 
 
   ```python
   i=0
