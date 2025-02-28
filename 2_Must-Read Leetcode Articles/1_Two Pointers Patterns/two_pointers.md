@@ -6,7 +6,9 @@
 ### Template: There are four categories of problems:
    ####  1. Running from both ends of an array
    > [!IMPORTANT]
-   > Note:
+   > The first type of problems are, having two pointers at left and right end of array, then moving them to the center while processing something with them.
+
+![Uploading image.png…]()
 
   ```python 
   ```
