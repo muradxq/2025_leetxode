@@ -31,7 +31,7 @@
    
    
    - #### Reversing / Swapping
-      - [ ] [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+      - [x] [344. Reverse String](https://leetcode.com/problems/reverse-string/)
       - [ ] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
       - [ ] [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
       - [ ] [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
