@@ -5,7 +5,7 @@
 
 ### Template: There are four categories of problems:
    ####  1. Running from both ends of an array
-  > [!IMPORTANT] 
+   > [!IMPORTANT] 
 
   ```python 
   ```
