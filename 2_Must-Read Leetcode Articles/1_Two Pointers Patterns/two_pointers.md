@@ -5,27 +5,29 @@
 
 ### Template: There are four categories of problems:
    ####  1. Running from both ends of an array
-   
-   > [!IMPORTANT] 
+   > [!NOTE]
    > example:
 
   ```python 
   ```
    #### 2. Slow & Fast Pointers
-  > [!IMPORTANT] 
+   > [!NOTE]
+   > 
 
   Example:
   ```python 
   ```
 
    #### 3. Running from beginning of 2 arrays / Merging 2 arrays
-  > [!IMPORTANT] 
+   > [!NOTE]
+   > 
 
   ```python 
   ```
 
    #### 4. Split & Merge of an array / Divide & Conquer
-  > [!IMPORTANT] 
+   > [!NOTE]
+   > 
 
   ```python 
   ```
