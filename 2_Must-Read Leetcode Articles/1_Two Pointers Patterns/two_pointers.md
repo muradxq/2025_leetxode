@@ -1,8 +1,7 @@
-# Sliding Window
+# Two pointers Problems
 
 #### References:
-- [Maximum Sliding Window Cheatsheet Template!](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
-
+- [Solved all two pointers problems in 100 days!](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)
 
 ### Template: Sliding Window (Shrinkable)
   The key idea is to keep the window valid at the end of each outer for-loop.
