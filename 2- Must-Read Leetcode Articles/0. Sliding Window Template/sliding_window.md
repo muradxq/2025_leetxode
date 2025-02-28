@@ -7,10 +7,10 @@
 #### Template: Sliding Window (Shrinkable)
   The key idea is to keep the window valid at the end of each outer for-loop.
   > [!IMPORTANT]
-  > #### How to define the state:
+  > #### How to define a state in sliding window problems?
   > - which data structure?
-  > - how to update it with nums[j]?
-  > - how to update it with nums[i]?
+  > - how to update it with `nums[j]`?
+  > - how to update it with `nums[i]`?
   > - what is a vaild state? 
 
   ```python
