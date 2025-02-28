@@ -4,9 +4,9 @@
 - [Collections of Important String questions Pattern](https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern)
 - [Substring Problem Template](https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/)
 
-## There are 6 main categories of problems:
+## There are six main categories of problems:
    > [!IMPORTANT]
-   > The  
+   > The Six main categories of  String Pattern problems. 
    ###  1. Parenthesis Problem
    - [ ] [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) 
    - [ ] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
