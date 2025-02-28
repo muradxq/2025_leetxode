@@ -4,9 +4,9 @@
 - [Solved all two pointers problems in 100 days!](https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days)
 
 ## Template: There are four categories of problems:
-   ###  1. Running from both ends of an array
-      > [!IMPORTANT]
-      > The first type of problems are, having two pointers at left and right end of array, then moving them to the center while processing something with them.
+   ###  1. Running from both ends of an array   
+   > [!IMPORTANT]
+   > The first type of problems are, having two pointers at left and right end of array, then moving them to the center while processing something with them.
       
    - #### Two Sum problems
       - [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
@@ -24,13 +24,13 @@
       - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
    
    
-   #### Next Permutation
+   - #### Next Permutation
    (*) https://leetcode.com/problems/next-permutation/
    https://leetcode.com/problems/next-greater-element-iii/
    https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/
    
    
-   #### Reversing / Swapping
+   - #### Reversing / Swapping
    https://leetcode.com/problems/valid-palindrome/
    (*) https://leetcode.com/problems/reverse-string/
    https://leetcode.com/problems/reverse-vowels-of-a-string/
@@ -48,7 +48,7 @@
    https://leetcode.com/problems/reverse-words-in-a-string/
    https://leetcode.com/problems/reverse-words-in-a-string-iii/
    
-   #### Others
+   - #### Others
    https://leetcode.com/problems/bag-of-tokens/
    https://leetcode.com/problems/di-string-match/
    https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
@@ -56,28 +56,14 @@
    https://leetcode.com/problems/find-k-closest-elements/
    https://leetcode.com/problems/shortest-distance-to-a-character/
 
-  ```python 
-  ```
-   #### 2. Slow & Fast Pointers
-   > [!IMPORTANT]
-   > Note:
+   - ### 2. Slow & Fast Pointers
+      > [!IMPORTANT]
+      > Note:
 
-  Example:
-  ```python 
-  ```
+   - ### 3. Running from beginning of 2 arrays / Merging 2 arrays
+      > [!IMPORTANT]
+      > Note:
 
-   #### 3. Running from beginning of 2 arrays / Merging 2 arrays
-   > [!IMPORTANT]
-   > Note:
-
-  ```python 
-  ```
-
-   #### 4. Split & Merge of an array / Divide & Conquer
-   > [!IMPORTANT]
-   > Note:
-
-  ```python 
-  ```
- 
-
+   - #### 4. Split & Merge of an array / Divide & Conquer
+      > [!IMPORTANT]
+      > Note:
