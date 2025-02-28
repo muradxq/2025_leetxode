@@ -9,7 +9,7 @@
    > The first type of problems are, having two pointers at left and right end of array, then moving them to the center while processing something with them.
       
    - #### Two Sum problems
-      - [x] [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+      - [:white_check_mark:] [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
       - [ ] [15. 3Sum](https://leetcode.com/problems/3sum/)
       - [ ] [18. 4Sum](https://leetcode.com/problems/4sum/)
       - [ ] [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/)
