@@ -1,4 +1,4 @@
-# Collections of Important String Questions Pattern
+# Collection of Important String Pattern Questions
 
 ### References:
 - [Collections of Important String questions Pattern](https://leetcode.com/discuss/study-guide/2001789/Collections-of-Important-String-questions-Pattern)
