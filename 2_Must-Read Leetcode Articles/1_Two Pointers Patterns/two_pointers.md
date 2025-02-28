@@ -25,36 +25,36 @@
    
    
    - #### Next Permutation
-   (*) https://leetcode.com/problems/next-permutation/
-   https://leetcode.com/problems/next-greater-element-iii/
-   https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/
+      - [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+      - [556. Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
+      - [1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number](https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/)
    
    
    - #### Reversing / Swapping
-   https://leetcode.com/problems/valid-palindrome/
-   (*) https://leetcode.com/problems/reverse-string/
-   https://leetcode.com/problems/reverse-vowels-of-a-string/
-   https://leetcode.com/problems/valid-palindrome-ii/
-   https://leetcode.com/problems/reverse-only-letters/
-   https://leetcode.com/problems/remove-element/
-   https://leetcode.com/problems/sort-colors/
-   https://leetcode.com/problems/flipping-an-image/
-   https://leetcode.com/problems/squares-of-a-sorted-array/
-   https://leetcode.com/problems/sort-array-by-parity/
-   https://leetcode.com/problems/sort-array-by-parity-ii/
-   https://leetcode.com/problems/pancake-sorting/
-   https://leetcode.com/problems/reverse-prefix-of-word/
-   https://leetcode.com/problems/reverse-string-ii/
-   https://leetcode.com/problems/reverse-words-in-a-string/
-   https://leetcode.com/problems/reverse-words-in-a-string-iii/
+      - [344. Reverse String](https://leetcode.com/problems/reverse-string/)
+      - [https://leetcode.com/problems/valid-palindrome/description/](https://leetcode.com/problems/valid-palindrome/)
+      - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
+      - [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+      - [917. Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)
+      - [27. Remove Element](https://leetcode.com/problems/remove-element/)
+      - [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+      - [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+      - [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+      - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
+      - [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
+      - [969. Pancake Sorting](https://leetcode.com/problems/pancake-sorting/)
+      - [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
+      - [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/)
+      - [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+      - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
    
    - #### Others
-   https://leetcode.com/problems/bag-of-tokens/
-   https://leetcode.com/problems/di-string-match/
-   https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
-   https://leetcode.com/problems/sentence-similarity-iii/
-   https://leetcode.com/problems/find-k-closest-elements/
-   https://leetcode.com/problems/shortest-distance-to-a-character/
+      - [948. Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/)
+      - [942. DI String Match](https://leetcode.com/problems/di-string-match/)
+      - [1750. Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
+      - [1813. Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
+      - [658. Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)
+      - [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)
 
    ## 2. Slow & Fast Pointers
    > [!IMPORTANT]
