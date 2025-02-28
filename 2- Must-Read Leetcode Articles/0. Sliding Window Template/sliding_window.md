@@ -12,9 +12,9 @@
   > - (2) how to update it with nums[j]?
   > - (3) how to update it with nums[i]?
   > - (4) what is a vaild state?
->    ```python
->       return ans
->     ```
+> ```python
+> return ans
+> ```
 
   ```python
   i=0
