@@ -107,39 +107,39 @@
    > In this category, you will be given 2 arrays or lists, then have to process them with individual pointers.
 
    - #### Sorted arrays
-      - [ ] [](https://leetcode.com/problems/merge-sorted-array/)
-      - [ ] [](https://leetcode.com/problems/heaters/)
-      - [ ] [](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
+      - [ ] [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+      - [ ] [475. Heaters](https://leetcode.com/problems/heaters/)
+      - [ ] [1385. Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays/)
 
    - #### Intersections/LCA like
-      - [ ] [](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-      - [ ] [](https://leetcode.com/problems/intersection-of-two-arrays/)
-      - [ ] [](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+      - [ ] [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+      - [ ] [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+      - [ ] [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 
    - #### SubString
-      - [ ] [](https://leetcode.com/problems/implement-strstr/)
-      - [ ] [](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
-      - [ ] [](https://leetcode.com/problems/long-pressed-name/)
-      - [ ] [](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)
-      - [ ] [](https://leetcode.com/problems/compare-version-numbers/)
-      - [ ] [](https://leetcode.com/problems/camelcase-matching/)
-      - [ ] [](https://leetcode.com/problems/expressive-words/)
+      - [ ] [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/implement-strstr/)
+      - [ ] [524. Longest Word in Dictionary through Deleting](https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/)
+      - [ ] [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+      - [ ] [522. Longest Uncommon Subsequence II](https://leetcode.com/problems/longest-uncommon-subsequence-ii/)
+      - [ ] [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
+      - [ ] [1023. Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
+      - [ ] [809. Expressive Words](https://leetcode.com/problems/expressive-words/)
 
    - #### Median Finder
-      - [ ] [](https://leetcode.com/problems/find-median-from-data-stream/)
+      - [ ] [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
    - #### Meet-in-the-middle / Binary Search
-      - [ ] [](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
-      - [ ] [](https://leetcode.com/problems/closest-subsequence-sum/)
-      - [ ] [](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
-      - [ ] [](https://leetcode.com/problems/3sum-closest/)
-      - [ ] [](https://leetcode.com/problems/valid-triangle-number/)
+      - [ ] [2035. Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)
+      - [ ] [1755. Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/)
+      - [ ] [1712. Ways to Split Array Into Three Subarrays](https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/)
+      - [ ] [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+      - [ ] [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/)
 
    - #### Others
-      - [ ] [](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
-      - [ ] [](https://leetcode.com/problems/most-profit-assigning-work/)
-      - [ ] [](https://leetcode.com/problems/largest-merge-of-two-strings/)
-      - [ ] [](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
+      - [ ] [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)
+      - [ ] [826. Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work/)
+      - [ ] [1754. Largest Merge Of Two Strings](https://leetcode.com/problems/largest-merge-of-two-strings/)
+      - [ ] [777. Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
 
 
    ## 4. Split & Merge of an array / Divide & Conquer
