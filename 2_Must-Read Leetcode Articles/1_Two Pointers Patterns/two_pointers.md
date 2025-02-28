@@ -56,14 +56,14 @@
    https://leetcode.com/problems/find-k-closest-elements/
    https://leetcode.com/problems/shortest-distance-to-a-character/
 
-   - ### 2. Slow & Fast Pointers
-      > [!IMPORTANT]
-      > Note:
+   ## 2. Slow & Fast Pointers
+   > [!IMPORTANT]
+   > Note:
 
-   - ### 3. Running from beginning of 2 arrays / Merging 2 arrays
-      > [!IMPORTANT]
-      > Note:
+   ## 3. Running from beginning of 2 arrays / Merging 2 arrays
+   > [!IMPORTANT]
+   > Note:
 
-   - #### 4. Split & Merge of an array / Divide & Conquer
-      > [!IMPORTANT]
-      > Note:
+   ## 4. Split & Merge of an array / Divide & Conquer
+   > [!IMPORTANT]
+   > Note:
