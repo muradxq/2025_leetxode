@@ -43,9 +43,6 @@ For most of the binary search problems, we only need to modify three parts in th
 - Decide return value. Is it return `left` or return `left - 1`? Remember this: after exiting the while loop, left is the minimal k​ satisfying the condition function.
 - Design the condition function. This is the most difficult and most beautiful part. Needs lots of practice.
 
-
-#### Questions that follow this patterns:
-
 #### Easy Problems: 
 - [x] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 - [x] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
