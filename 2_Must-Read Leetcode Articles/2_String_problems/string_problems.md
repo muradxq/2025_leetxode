@@ -10,9 +10,9 @@
    ###  1. Parenthesis Problem
    - [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
    - [x] [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) 
+   - [x] [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)
    - [ ] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
    - [ ] [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses)
-   - [ ] [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)
    - [ ] [241. Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) 
    - [ ] [301. Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)
    - [ ] [1249. Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) 
