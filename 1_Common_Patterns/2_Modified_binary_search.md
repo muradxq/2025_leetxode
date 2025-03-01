@@ -57,13 +57,13 @@ As for the question "When can we use binary search?", my answer is that, If we c
 - [x] [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 - [ ] [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
 - [ ] [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
-- [ ] [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/)
+
 - [ ] [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
 - [ ] [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/description/)
 - [ ] [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)
 - [ ] [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/description/)
 - [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
-
+- [ ] [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/)
 
 
 ---------------------------------
