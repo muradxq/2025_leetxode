@@ -54,7 +54,7 @@ The above problems are quite easy to solve, because they already give us the arr
 
 As for the question "When can we use binary search?", my answer is that, If we can discover some kind of monotonicity, for example, if condition(k) is True then condition(k + 1) is True, then we can consider binary search.
 
-- [ ] [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
+- [x] [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 - [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [ ] [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
 - [ ] [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
@@ -66,5 +66,42 @@ As for the question "When can we use binary search?", my answer is that, If we c
 
 
 
+---------------------------------
+
+- [ ] [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 
 
+
+  ```python
+  # Can I use binary search?
+  # Is the search space for the answer has a specific range?
+  # left = max(weights) the minimum capacity should be max(weight) otheriwse we will not be able to ship the item.
+  # right = sum(weights) because if the capacity is sum(weights), we can ship them all in one day.
+  # The monotonic condition. If capacity = x fit in n dayas. that means any capacity > x will also fit.
+  # The goal of the binary seach is to find the minimum fesiable capacity.
+
+  def isfesiable(capacity):
+    # is capacity is enough to ship in n days.
+    total = 0
+    nDays = 1
+
+  for w in weights:
+    total += w
+    if total > capacity:
+      nDays+=1
+      total = w
+  if nDays > days:
+    return False
+  else:
+    return True                    
+
+  l = max(weights)
+  r = sum(weights)
+  while l < r:
+    mid = l + (r - l) // 2
+    if (isfesiable(mid)):
+      r = mid
+    else:
+      l = mid +1
+  return l
+  ```
