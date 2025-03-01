@@ -9,7 +9,7 @@
    > The Six main categories of  String Pattern problems. 
    ###  1. Parenthesis Problem
    - [x] [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses) 
-   - [ ] [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) 
+   - [x] [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses) 
    - [ ] [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses)
    - [ ] [856. Score of Parentheses](https://leetcode.com/problems/score-of-parentheses)
    - [ ] [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)
