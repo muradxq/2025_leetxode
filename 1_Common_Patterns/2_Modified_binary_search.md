@@ -43,12 +43,12 @@ For most of the binary search problems, we only need to modify three parts in th
 - Decide return value. Is it return `left` or return `left - 1`? Remember this: after exiting the while loop, left is the minimal k​ satisfying the condition function.
 - Design the condition function. This is the most difficult and most beautiful part. Needs lots of practice.
 
-#### Easy Problems: 
+### Easy Problems: 
 - [x] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 - [x] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 - [x] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
-#### More advanced Problems: 
+### More advanced Problems: 
 
 The above problems are quite easy to solve, because they already give us the array to be searched. We'd know that we should use binary search to solve them at first glance. **However, more often are the situations where the search space and search target are not so readily available.** Sometimes we won't even realize that the problem should be solved with binary search -- we might just turn to dynamic programming or DFS and get stuck for a very long time.
 
