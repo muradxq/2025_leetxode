@@ -48,8 +48,8 @@ For most of the binary search problems, we only need to modify three parts in th
 
 #### Easy Problems: 
 - [x] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
-- [ ] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
-- [ ] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
+- [x] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+- [x] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
 #### More advanced Problems: 
 - [ ] [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
