@@ -73,35 +73,35 @@ As for the question "When can we use binary search?", my answer is that, If we c
 
 
   ```python
-  # Can I use binary search?
-  # Is the search space for the answer has a specific range?
-  # left = max(weights) the minimum capacity should be max(weight) otheriwse we will not be able to ship the item.
-  # right = sum(weights) because if the capacity is sum(weights), we can ship them all in one day.
-  # The monotonic condition. If capacity = x fit in n dayas. that means any capacity > x will also fit.
-  # The goal of the binary seach is to find the minimum fesiable capacity.
-
-  def isfesiable(capacity):
-    # is capacity is enough to ship in n days.
-    total = 0
-    nDays = 1
-
-  for w in weights:
-    total += w
-    if total > capacity:
-      nDays+=1
-      total = w
-  if nDays > days:
-    return False
-  else:
-    return True                    
-
-  l = max(weights)
-  r = sum(weights)
-  while l < r:
-    mid = l + (r - l) // 2
-    if (isfesiable(mid)):
-      r = mid
+    # Can I use binary search?
+    # Is the search space for the answer has a specific range?
+    # left = max(weights) the minimum capacity should be max(weight) otheriwse we will not be able to ship the item.
+    # right = sum(weights) because if the capacity is sum(weights), we can ship them all in one day.
+    # The monotonic condition. If capacity = x fit in n dayas. that means any capacity > x will also fit.
+    # The goal of the binary seach is to find the minimum fesiable capacity.
+  
+    def isfesiable(capacity):
+      # is capacity is enough to ship in n days.
+      total = 0
+      nDays = 1
+  
+    for w in weights:
+      total += w
+      if total > capacity:
+        nDays+=1
+        total = w
+    if nDays > days:
+      return False
     else:
-      l = mid +1
-  return l
+      return True                    
+  
+    l = max(weights)
+    r = sum(weights)
+    while l < r:
+      mid = l + (r - l) // 2
+      if (isfesiable(mid)):
+        r = mid
+      else:
+        l = mid +1
+    return l
   ```
