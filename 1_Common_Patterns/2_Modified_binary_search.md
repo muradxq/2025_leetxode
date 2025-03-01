@@ -52,6 +52,11 @@ For most of the binary search problems, we only need to modify three parts in th
 - [x] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
 #### More advanced Problems: 
+
+The above problems are quite easy to solve, because they already give us the array to be searched. We'd know that we should use binary search to solve them at first glance. **However, more often are the situations where the search space and search target are not so readily available.** Sometimes we won't even realize that the problem should be solved with binary search -- we might just turn to dynamic programming or DFS and get stuck for a very long time.
+
+As for the question "When can we use binary search?", my answer is that, If we can discover some kind of monotonicity, for example, if condition(k) is True then condition(k + 1) is True, then we can consider binary search.
+
 - [ ] [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 - [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [ ] [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
