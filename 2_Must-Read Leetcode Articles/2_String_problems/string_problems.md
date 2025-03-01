@@ -36,8 +36,6 @@
    - [ ] [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal) 
    - [ ] [1392. Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix) 
    ### 4. Palindromic string
-   - [ ] [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
-   - [ ] [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii) 
    - [ ] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome) 
    - [ ] [214. Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome) 
    - [ ] [336. Palindrome Pairs](https://leetcode.com/problems/palindrome-pairs) 
@@ -69,5 +67,8 @@
    
 
 
+To be re-categorized:
 
+   - [ ] [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) Palindromic string
+   - [ ] [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii)  Palindromic string
 
