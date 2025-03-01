@@ -73,11 +73,11 @@ As for the question "When can we use binary search?", my answer is that, If we c
 
 
   ```python
-    # Can I use binary search?
+    # Can w use binary search?
     # Is the search space for the answer has a specific range?
     # left = max(weights) the minimum capacity should be max(weight) otheriwse we will not be able to ship the item.
     # right = sum(weights) because if the capacity is sum(weights), we can ship them all in one day.
-    # The monotonic condition. If capacity = x fit in n dayas. that means any capacity > x will also fit.
+    # The monotonic condition; If capacity = x fit in n dayas. that means any capacity > x will also fit.
     # The goal of the binary seach is to find the minimum fesiable capacity.
   
     def isfesiable(capacity):
