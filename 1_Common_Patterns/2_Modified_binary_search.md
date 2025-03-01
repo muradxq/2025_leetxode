@@ -47,7 +47,7 @@ For most of the binary search problems, we only need to modify three parts in th
 #### Questions that follow this patterns:
 
 #### Easy Problems: 
-- [ ] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
+- [x] [278. First Bad Version](https://leetcode.com/problems/first-bad-version/description/)
 - [ ] [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 - [ ] [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)
 
