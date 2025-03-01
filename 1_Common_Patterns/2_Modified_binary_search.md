@@ -13,8 +13,13 @@ Some of the most common problems include:
 - How to update the boundary?
 - How to choose the appropriate combination from `left = mid`, `left = mid + 1` and `right = mid`, `right = mid - 1`?
 
+A rather common misunderstanding of binary search is that people often think this technique could only be used in simple scenario like "Given a sorted array, find a specific value in it". As a matter of fact, it can be applied to much more complicated situations.
 
 ### Template: Most Generalized Binary Search
+
+Suppose we have a search space. It could be an array, a range, etc. Usually it's sorted in ascending order. For most tasks, we can transform the requirement into the following generalized form:
+
+The following code is the most generalized binary search template:
 
   ```python
   def binary_search(array) -> int:
