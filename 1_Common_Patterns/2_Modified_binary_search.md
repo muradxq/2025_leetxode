@@ -35,5 +35,13 @@ The following code is the most generalized binary search template:
             left = mid + 1
     return left
   ```
+
+For most of the binary search problems, we only need to modify three parts in this template, and never need to worry about corner cases and bugs in code any more:
+
+- Correctly initialize the boundary variables `left` and `right` to specify search space. Only one rule: set up the boundary to include all possible elements.
+- Decide return value. Is it return `left` or return `left - 1`? Remember this: after exiting the while loop, left is the minimal k​ satisfying the condition function.
+- Design the condition function. This is the most difficult and most beautiful part. Needs lots of practice.
+
+
 #### Questions that follow this patterns:
 - [x]
