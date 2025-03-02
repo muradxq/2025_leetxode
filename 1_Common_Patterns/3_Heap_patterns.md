@@ -50,7 +50,7 @@ The objective of this tutorial is to understand the basics of Heap, time complex
   # Getting top element from the heap
   value = hq.heappop(minHeap) # the value here is 2 as 2 is the minimum value. 
   ```
-Other operations in heapq python module includes heappushpop ,heapreplace , nlargest , nsmallest .
+Other operations in heapq python module includes heappushpop ,heapreplace , nlargest , nsmallest.
 
 
 
