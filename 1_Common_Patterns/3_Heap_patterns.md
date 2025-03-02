@@ -26,9 +26,9 @@ The objective of this tutorial is to understand the basics of Heap, time complex
 
 ### Heap in Python
  The basic operations in Python heapq are:
- #### - heapify
+ #### 1- heapify
  The heapify operation converts the iterable array heap into a tree structure w.r.t heap order.
- #### - heappush
+ #### 2- heappush
  It inserts an element into the heap. Post insertion the heap order is adjusted to maintain the heap properties.
 
   ```python
@@ -39,7 +39,7 @@ The objective of this tutorial is to understand the basics of Heap, time complex
   hq.heappush(minHeap, 5)
   ```
 
- #### - heappop
+ #### 3- heappop
   This operation is to remove the element from the heap. By default it is minHeap, so this operation removes the min element from the minHeap. And for maxHeap, it is the maximum element. Post removal, heapify is called internally to maintain the heap order.
 
   ```python
