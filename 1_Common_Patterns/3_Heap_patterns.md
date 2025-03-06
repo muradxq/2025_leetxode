@@ -7,7 +7,7 @@
 ## There are four main categories of problems:
    ### 1. Top K Pattern
    > [!IMPORTANT]
-   > The first type of problems are, having two pointers at left and right end of array, then moving them to the center while processing something with them.
+   > The top k-pattern.
 
    - [ ] [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
    - [ ] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
