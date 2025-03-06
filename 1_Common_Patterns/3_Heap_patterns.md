@@ -9,16 +9,16 @@
    > [!IMPORTANT]
    > The first type of problems are, having two pointers at left and right end of array, then moving them to the center while processing something with them.
 
-     - [ ] [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
-     - [ ] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
-     - [ ] [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
-     - [ ] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
-     - [ ] [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
-     - [ ] [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)
-     - [ ] [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
-     - [ ] [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
-     - [ ] [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)
-     - [ ] [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/description/)
+   - [ ] [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
+   - [ ] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+   - [ ] [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+   - [ ] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+   - [ ] [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
+   - [ ] [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)
+   - [ ] [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+   - [ ] [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)
+   - [ ] [358. Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/description/)
+   - [ ] [1439. Find the Kth Smallest Sum of a Matrix With Sorted Rows](https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/description/)
 
     ### Merge K sorted pattern
      - [ ] [373. Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/)
