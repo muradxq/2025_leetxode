@@ -9,10 +9,10 @@
    > [!IMPORTANT]
    > The top k-pattern.
 
-   - [ ] [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
-   - [ ] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
-   - [ ] [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
-   - [ ] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
+   - [x] [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/)
+   - [x] [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+   - [x] [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/)
+   - [x] [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)
    - [ ] [692. Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/description/)
    - [ ] [264. Ugly Number II](https://leetcode.com/problems/ugly-number-ii/description/)
    - [ ] [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
