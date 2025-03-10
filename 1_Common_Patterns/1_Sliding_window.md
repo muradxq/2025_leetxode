@@ -55,13 +55,13 @@
 
 
 #### Questions that follow this patterns:
+- [x] [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/description/)
+- [x] [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
 - [x] [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 - [x] [159. Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/description/)
 - [x] [340. Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/)
 - [x] [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/)
 - [x] [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
-- [x] [487. Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/description/)
-- [x] [1004. Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/)
 - [ ] [713. Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)
 - [ ] [1208. Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/description/)
 - [ ] [1695. Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value/description/)
