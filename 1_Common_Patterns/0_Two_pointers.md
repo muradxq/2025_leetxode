@@ -35,7 +35,7 @@
       - [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
       - [x] [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
       - [x] [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
-      - [ ] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
+      - [x] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
       - [ ] [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
       - [ ] [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
       - [ ] [922. Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)
