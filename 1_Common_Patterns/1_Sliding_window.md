@@ -2,7 +2,7 @@
 
 #### References:
 - [Maximum Sliding Window Cheatsheet Template!](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
-- [problem-list!](https://leetcode.com/problem-list/sliding-window/)
+- [Problem-list (LeetCode)](https://leetcode.com/problem-list/sliding-window/)
 
 
 ### Template: Sliding Window (Shrinkable)
