@@ -33,9 +33,8 @@
    - #### Reversing / Swapping
       - [x] [344. Reverse String](https://leetcode.com/problems/reverse-string/)
       - [x] [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-      - [x] [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/)
       - [x] [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
-      - [ ] [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
+      - [x] [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
       - [ ] [75. Sort Colors](https://leetcode.com/problems/sort-colors/)
       - [ ] [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
       - [ ] [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)
