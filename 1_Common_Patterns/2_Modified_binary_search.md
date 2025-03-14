@@ -23,8 +23,8 @@ Suppose we have a search space. It could be an array, a range, etc. Usually it's
 The following code is the most generalized binary search template:
 
   ```python
-  def binary_search(array) -> int:
-    def condition(value) -> bool:
+  def binary_search(array):
+    def condition(value):
         pass
 
     left, right = min(search_space), max(search_space) # could be [0, n], [1, n] etc. Depends on problem
