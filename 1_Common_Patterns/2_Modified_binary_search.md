@@ -61,7 +61,6 @@ As for the question "When can we use binary search?", my answer is that, If we c
 - [ ] [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
 - [ ] [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/description/)
 - [ ] [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/description/)
-- [ ] [1201. Ugly Number III](https://leetcode.com/problems/ugly-number-iii/description/)
 - [ ] [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [ ] [668. Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/description/)
 
