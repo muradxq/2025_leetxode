@@ -2,6 +2,7 @@
 
 #### References:
 - [Master HEAP: Understanding 4 patterns where HEAP data structure is used](https://leetcode.com/discuss/general-discussion/1127238/master-heap-by-solving-23-questions-in-4-patterns-category)
+- [2.6.3 Heap - Heap Sort - Heapify - Priority Queues](https://www.youtube.com/watch?v=HqPJF2L5h9U)
 
 ## There are four main categories of problems:
    ### 1. Top K Pattern
