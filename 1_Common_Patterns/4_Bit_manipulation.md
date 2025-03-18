@@ -6,6 +6,10 @@
 
 ## There are 10 patterns of problems:
   ### 1. Gray code
+   > [!IMPORTANT]
+   > Gray code
+   - [ ] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
+   - [ ] [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
   ### 2. Checking is power of something eg -> 4
   ### 3. Question on the Basic Prop of XOR
   ### 4. Based On fact Seting Left most bit give You Large Number
