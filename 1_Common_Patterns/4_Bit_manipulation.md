@@ -5,7 +5,7 @@
 - [Problem-list Leetcode (Bit Manipulation)](https://leetcode.com/problem-list/bit-manipulation/)
 
 ## There are 10 patterns of problems:
-- (1) Gray code
+  ### 1.  Gray code
 - (2) Checking is power of something eg -> 4
 - (3) Question on the Basic Prop of XOR
 - (4) Based On fact Seting Left most bit give You Large Number
