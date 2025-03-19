@@ -7,13 +7,13 @@
 ## There are 10 patterns of problems:
   ### [1] Gray code
   > [!IMPORTANT]
-  > - The formula to convert a binary number to Gray code:
+  > - Binary to Gray Code: XOR each bit with the previous bit:
   >   - Gray[i]= Binary[i] ^ Binary[i−1]
-  > - The formula to convert gray code to binary number :
+  > - Gray Code to Binary: Reverse XOR from left to right:
   >   - Binary[i]= Gray[i] ^ Binary[i−1]
     
-    ```python
-      def binary_search(array):
+```python
+  def binary_search(array):
         def condition(value):
             pass
     
@@ -25,7 +25,7 @@
             else:
                 left = mid + 1
         return left
-      ```
+```
 
    - [ ] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
    - [ ] [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
