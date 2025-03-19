@@ -8,9 +8,9 @@
   ### [1] Gray code
   > [!IMPORTANT]
   > - Binary to Gray Code: XOR each bit with the previous bit:
-  >   - Gray[i]= Binary[i] ^ Binary[i−1]
+  >   - `Gray[i]= Binary[i] ^ Binary[i−1]`
   > - Gray Code to Binary: Reverse XOR from left to right:
-  >   - Binary[i]= Gray[i] ^ Binary[i−1]
+  >   - `Binary[i]= Gray[i] ^ Binary[i−1]`
     
 ```python
 def binary_to_gray(n: int):
