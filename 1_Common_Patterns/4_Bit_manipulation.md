@@ -18,9 +18,9 @@
    - [ ] [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
   ### 3. Question on the Basic properties of XOR
    > [!IMPORTANT]
-   > xor of a same number with itself is zero, i.e A ^ A = 0
-   > xor is commutative that means a ^ b = b ^ a.
-   > xor of any number with zero is the number itself i.e A ^ 0 = A.
+   > - xor of a same number with itself is zero, i.e A ^ A = 0
+   > - xor is commutative that means a ^ b = b ^ a.
+   > - xor of any number with zero is the number itself i.e A ^ 0 = A.
    - [ ] [136. Single Number](https://leetcode.com/problems/single-number/description/)
    - [ ] [137. Single Number II](https://leetcode.com/problems/single-number-ii/description/)
    - [ ] [260. Single Number III](https://leetcode.com/problems/single-number-iii/description/)
