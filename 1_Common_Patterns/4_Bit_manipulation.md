@@ -5,7 +5,7 @@
 - [Problem-list Leetcode (Bit Manipulation)](https://leetcode.com/problem-list/bit-manipulation/)
 
 ## There are 10 patterns of problems:
-  ### 1. Gray code
+  ### [1] Gray code
    > [!IMPORTANT]
    > Gray code
    - [ ] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
