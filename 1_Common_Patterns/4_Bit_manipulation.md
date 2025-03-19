@@ -7,7 +7,8 @@
 ## There are 10 patterns of problems:
   ### [1] Gray code
    > [!IMPORTANT]
-   > Gray code
+   > The formula to convert a binary number to Gray code: Gray[i]= Binary[i] ^ Binary[i−1]
+   >  The formula to convert gray code to binary number : Binary[i]= Gray[i] ^ Binary[i−1]
    - [ ] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
    - [ ] [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
   ### 2. N is power of p
