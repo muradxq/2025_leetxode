@@ -10,7 +10,12 @@
    > Gray code
    - [ ] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
    - [ ] [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
-  ### 2. Checking is power of something eg -> 4
+  ### 2. Check if num is power of p
+   > [!IMPORTANT]
+   > num is power of p
+   - [ ] [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
+   - [ ] [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)
+   - [ ] [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
   ### 3. Question on the Basic Prop of XOR
   ### 4. Based On fact Seting Left most bit give You Large Number
   ### 5. DP + Bitmasks
