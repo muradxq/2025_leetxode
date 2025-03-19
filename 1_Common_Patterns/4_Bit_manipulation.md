@@ -13,8 +13,8 @@
   >   - `Binary[i]= Gray[i] ^ Binary[i−1]`
     
 ```python
-def binary_to_gray(n: int):
-  return n ^ (n >> 1)
+def binary_to_gray(n: int):       # Binary: 0000, 0001, 0010, 0011, 0100, 0101, 0110, 0111, 1000
+  return n ^ (n >> 1)             # Gray:   0000, 0001, 0011, 0010, 0110, 0111, 0101, 0100, 1100
 
 def gray_to_binary(n: int):
   result = n
