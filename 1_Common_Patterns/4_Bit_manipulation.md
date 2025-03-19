@@ -10,7 +10,7 @@
    > Gray code
    - [ ] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
    - [ ] [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
-  ### 2. Check if num is power of p
+  ### 2. N is power of p
    > [!IMPORTANT]
    > num is power of p
    - [ ] [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
