@@ -9,7 +9,8 @@
   > [!IMPORTANT]
   > The formula to convert a binary number to Gray code:
   > - Gray[i]= Binary[i] ^ Binary[i−1]
-  > - The formula to convert gray code to binary number : Binary[i]= Gray[i] ^ Binary[i−1]
+  > The formula to convert gray code to binary number :
+  > - Binary[i]= Gray[i] ^ Binary[i−1]
     
     ```python
       def binary_search(array):
