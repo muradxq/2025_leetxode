@@ -8,7 +8,22 @@
   ### [1] Gray code
    > [!IMPORTANT]
    > The formula to convert a binary number to Gray code: Gray[i]= Binary[i] ^ Binary[i−1]
-   >  The formula to convert gray code to binary number : Binary[i]= Gray[i] ^ Binary[i−1]
+   > The formula to convert gray code to binary number : Binary[i]= Gray[i] ^ Binary[i−1]
+     ```python
+      def binary_search(array):
+        def condition(value):
+            pass
+    
+        left, right = min(search_space), max(search_space) # could be [0, n], [1, n] etc. Depends on problem
+        while left < right:
+            mid = left + (right - left) // 2
+            if condition(mid):
+                right = mid
+            else:
+                left = mid + 1
+        return left
+      ```
+
    - [ ] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
    - [ ] [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
   ### 2. N is power of p
