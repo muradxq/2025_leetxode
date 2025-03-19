@@ -13,18 +13,15 @@
   >   - Binary[i]= Gray[i] ^ Binary[i−1]
     
 ```python
-  def binary_search(array):
-        def condition(value):
-            pass
-    
-        left, right = min(search_space), max(search_space) # could be [0, n], [1, n] etc. Depends on problem
-        while left < right:
-            mid = left + (right - left) // 2
-            if condition(mid):
-                right = mid
-            else:
-                left = mid + 1
-        return left
+  def binary_to_gray(n: int):
+      return n ^ (n >> 1)
+
+def gray_to_binary(n: int):
+    result = n
+    while n > 0:
+        n >>= 1
+        result ^= n
+    return result
 ```
 
    - [ ] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
