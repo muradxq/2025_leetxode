@@ -13,15 +13,15 @@
   >   - Binary[i]= Gray[i] ^ Binary[i−1]
     
 ```python
-  def binary_to_gray(n: int):
-      return n ^ (n >> 1)
+def binary_to_gray(n: int):
+  return n ^ (n >> 1)
 
 def gray_to_binary(n: int):
-    result = n
-    while n > 0:
-        n >>= 1
-        result ^= n
-    return result
+  result = n
+  while n > 0:
+    n >>= 1
+    result ^= n
+  return result
 ```
 
    - [ ] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
