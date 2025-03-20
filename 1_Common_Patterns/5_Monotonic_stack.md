@@ -14,24 +14,34 @@ There are four types of monotonic stacks:
 
  #### Template:
  ```python
+ # At all points in time, the stack maintains its monotonic property
  def buildMonoStack(nums):
-  # Initialize an empty stack
-  stack = []
-  # Iterate through all the elements in the array
-  for i in range(len(nums)):
-    while (stack is not empty and element represented by stack top `OPERATOR` arr[i]):
-      # If the previous condition is satisfied, we pop the top element
-      stackTop = stack.pop()
-      # Do something with stackTop here (nextGreater[stackTop] = i)
-    if (len(stack) !=0):
-      # If stack has some elements left
-      # Do something with stack top here (previousGreater[i] = stack.at(-1))
+   # Initialize an empty stack
+   stack = []
+   # Iterate through all the elements in the array
+   for i in range(len(nums)):
+     while (stack is not empty and element represented by stack top `OPERATOR` arr[i]):
+        # If the previous condition is satisfied, we pop the top element
+        stackTop = stack.pop()
+        # Do something with stackTop here (nextGreater[stackTop] = i)
+     if (len(stack) !=0):
+        # If stack has some elements left
+        # Do something with stack top here (previousGreater[i] = stack.at(-1))
 
-    # At the end, we push the current index into the stack
-    stack.push(i)    
-    # At all points in time, the stack maintains its monotonic property
+     # At the end, we push the current index into the stack
+     stack.push(i)    
  ```
-
+ #### Notes about the template above
+ > [!IMPORTANT]
+ > - We initialize an empty stack at the beginning.
+ > - The stack contains the index of items in the array, not the items themselves
+ > - There is an outer for loop and inner while loop.
+ > - At the beginning of the program, the stack is empty, so we don't enter the while loop at first.
+ > - The earliest we can enter the while loop body is during the second iteration of for loop. That's when there is at least an item in the stack.
+ > - At the end of the while loop, the index of the current element is pushed into the stack
+ > - The OPERATOR inside the while loop condition decides what type of monotonic stack are we creating.
+ > - The OPERATOR could be any of the four - >, >=, <, <=
+ 
  ## There are Four Patterns:
   ### [1] Next Greater
   > [!IMPORTANT]
