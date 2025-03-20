@@ -36,11 +36,10 @@ There are four types of monotonic stacks:
  > - We initialize an empty stack at the beginning.
  > - The stack contains the index of items in the array, not the items themselves
  > - There is an outer for loop and inner while loop.
- > - At the beginning of the program, the stack is empty, so we don't enter the while loop at first.
- > - The earliest we can enter the while loop body is during the second iteration of for loop. That's when there is at least an item in the stack.
+ > - At the beginning of the program, the stack is empty, so we don't enter the while loop at first. 
  > - At the end of the while loop, the index of the current element is pushed into the stack
- > - The OPERATOR inside the while loop condition decides what type of monotonic stack are we creating.
- > - The OPERATOR could be any of the four - >, >=, <, <=
+ > - The `OPERATOR` inside the while loop condition decides what type of monotonic stack are we creating.
+ > - The `OPERATOR` could be any of the four `>, >=, <, <=`
  
  ## There are Four Patterns:
   ### [1] Next Greater
