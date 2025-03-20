@@ -42,8 +42,8 @@ There are four types of monotonic stacks:
  > - The `OPERATOR` could be any of the four `>, >=, <, <=`
  
  > [!IMPORTANT]
- > - **Time complexity**:  `O(n)` Because no element is accessed more than four times (a constant). 
- > - **Space complexity**: `O(n)` Because we are using an external data structure - stack.
+ > - **Time complexity**:  `O(n)` Because no element is accessed more than four times (constant). 
+ > - **Space complexity**: `O(n)` Because we are using an external data structure (stack).
  
  ## There are Four Patterns:
   ### [1] Next Greater
