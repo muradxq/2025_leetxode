@@ -48,7 +48,7 @@ There are four types of monotonic stacks:
  > [!IMPORTANT]
  > - In our implementation:
  >  -  Finding `next greater` and `previous greater` elements require building a monotone `decreasing` stack.
->   -  Finding `next smaller` and `previous smaller` requires building a monotone `increasing` stack.
+ >  -  Finding `next smaller` and `previous smaller` requires building a monotone `increasing` stack.
  
  ## There are Four Patterns:
   ### [1] Next Greater
@@ -78,6 +78,14 @@ There are four types of monotonic stacks:
       stack.push(i)
     return nextGreater
  ```
+  > [!IMPORTANT]
+  > - For finding next greater elements (not equal) we use a monotonic non increasing stack (type 4)
+  > - If the question was to find next greater or equal elements, then we would have used a monotonic strictly decreasing stack (type 3)
+  > - We use the operator < in while loop condition above - this results in a monotonic non increasing stack (type 4).
+  > - If we use <= operator, then this becomes a monotonic strictly decreasing stack (type 3)
+  > - Time and space complexity - O(n).
+ 
+
 
   ### [2] Previous Greater	
   > [!IMPORTANT]
