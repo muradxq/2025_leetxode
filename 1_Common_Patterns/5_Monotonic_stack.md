@@ -56,7 +56,12 @@ There are four types of monotonic stacks:
   > Given the following array, Find the next greater element for each item.
   > - `nums  = [13, 8, 1, 5, 2, 5, 9, 7, 6, 12]`
   > - `NextG = [null, 9, 5, 9, 5, 9, 12, 12, 12, null]`
-    
+  > - For finding next greater elements (not equal) we use a monotonic non increasing stack (type 4)
+  > - If the question was to find next greater or equal elements, then we would have used a monotonic strictly decreasing stack (type 3)
+  > - We use the operator < in while loop condition above - this results in a monotonic non increasing stack (type 4).
+  > - If we use <= operator, then this becomes a monotonic strictly decreasing stack (type 3)
+  > - Time and space complexity - O(n).
+   
  ```python
  def findNextGreaterIndex(nums):
    # Initialize an empty stack
@@ -78,13 +83,7 @@ There are four types of monotonic stacks:
       stack.push(i)
     return nextGreater
  ```
-  > [!IMPORTANT]
-  > - For finding next greater elements (not equal) we use a monotonic non increasing stack (type 4)
-  > - If the question was to find next greater or equal elements, then we would have used a monotonic strictly decreasing stack (type 3)
-  > - We use the operator < in while loop condition above - this results in a monotonic non increasing stack (type 4).
-  > - If we use <= operator, then this becomes a monotonic strictly decreasing stack (type 3)
-  > - Time and space complexity - O(n).
- 
+
 
 
   ### [2] Previous Greater	
