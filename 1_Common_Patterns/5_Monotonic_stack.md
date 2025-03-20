@@ -54,8 +54,8 @@ There are four types of monotonic stacks:
   ### [1] Next Greater
   > [!IMPORTANT]
   > Given the following array, Find the next greater element for each item.
-  > `nums  = [13, 8, 1, 5, 2, 5, 9, 7, 6, 12]`
-  > `NextG = [null, 9, 5, 9, 5, 9, 12, 12, 12, null]`
+  > - `nums  = [13, 8, 1, 5, 2, 5, 9, 7, 6, 12]`
+  > - `NextG = [null, 9, 5, 9, 5, 9, 12, 12, 12, null]`
     
  ```python
  def binary_to_gray(n: int):      
