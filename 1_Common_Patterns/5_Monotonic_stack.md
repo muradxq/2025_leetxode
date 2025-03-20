@@ -73,7 +73,7 @@ There are four types of monotonic stacks:
       # while loop runs until the stack is not empty AND
       # the element represented by stack top is STRICTLY SMALLER than the current element
       # This means, the stack will always be *monotonic non increasing (type 4)*
-      while ((len(stack) != 0) and nums [stack[-1]] < nums[i]):
+      while ((len(stack) != 0) and nums[stack[-1]] < nums[i]):
          # Pop out the top of the stack, it represents the index of the item
          stackTop = stack.pop()
          # As given in the condition of the while loop above, nextGreater element of stackTop is the element at index i
