@@ -45,6 +45,11 @@ There are four types of monotonic stacks:
  > - **Time complexity**:  `O(n)` Because no element is accessed more than four times (constant). 
  > - **Space complexity**: `O(n)` Because we are using an external data structure (stack).
  
+ > [!IMPORTANT]
+ > - In our implementation:
+ >  -  Finding `next greater` and `previous greater` elements require building a monotone `decreasing` stack.
+>   -  Finding `next smaller` and `previous smaller` requires building a monotone `increasing` stack.
+ 
  ## There are Four Patterns:
   ### [1] Next Greater
   > [!IMPORTANT]
