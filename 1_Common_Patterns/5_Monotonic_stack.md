@@ -5,7 +5,7 @@
 
 ### Introduction
 There are four types of monotonic stacks:
-| Column 1 | Column 2 | Column 3 |
+|  |  |  |
 |----------|----------|----------|
 | **Strictly Increasing**  | Every element of the stack is strictly greater than the previous element.     | [1, 4, 5, 8, 9]        |
 | **Non-Decreasing**       | Every element of the stack is greater than or equal to the previous element.  | [1, 4, 5, 5, 8, 9, 9]  |
