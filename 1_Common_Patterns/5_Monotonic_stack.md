@@ -58,8 +58,25 @@ There are four types of monotonic stacks:
   > - `NextG = [null, 9, 5, 9, 5, 9, 12, 12, 12, null]`
     
  ```python
- def binary_to_gray(n: int):      
-  
+ def findNextGreaterIndex(nums):
+   # Initialize an empty stack
+   stack = []
+   # Initialize nextGreater array with -1, this array hold the output
+   nextGreater =[-1]*len(nums)
+   # Iterate through all the elements of the array
+   for i in range(len(nums)):
+      # while loop runs until the stack is not empty AND
+      # the element represented by stack top is STRICTLY SMALLER than the current element
+      # This means, the stack will always be *monotonic non increasing (type 4)*
+      while ((len(stack) != 0) and nums [stack[-1]] < nums[i]):
+         # Pop out the top of the stack, it represents the index of the item
+         stackTop = stack.pop()
+         # As given in the condition of the while loop above, nextGreater element of stackTop is the element at index i
+         nextGreater[stackTop] = i
+ 
+      # Push the current element
+      stack.push(i)
+    return nextGreater
  ```
 
   ### [2] Previous Greater	
