@@ -60,7 +60,7 @@ There are four types of monotonic stacks:
   > - If the question was to find next greater or equal elements, then we would have used a monotonic strictly decreasing stack (type 3)
   > - We use the operator < in while loop condition above - this results in a monotonic non increasing stack (type 4).
   > - If we use <= operator, then this becomes a monotonic strictly decreasing stack (type 3)
-  > - Time and space complexity - O(n).
+  > - Time and space complexity - `O(n)`.
    
  ```python
  def findNextGreaterIndex(nums):
