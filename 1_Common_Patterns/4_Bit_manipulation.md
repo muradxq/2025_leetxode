@@ -24,8 +24,8 @@ def gray_to_binary(n: int):
   return result
 ```
 
-   - [*] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
-   - [*] [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
+   - [x] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
+   - [x] [1238. Circular Permutation in Binary Representation](https://leetcode.com/problems/circular-permutation-in-binary-representation/description/)
   ### 2. N is power of p
    > [!IMPORTANT]
    > num is power of p
