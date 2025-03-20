@@ -41,6 +41,10 @@ There are four types of monotonic stacks:
  > - The `OPERATOR` inside the while loop condition decides what type of monotonic stack are we creating.
  > - The `OPERATOR` could be any of the four `>, >=, <, <=`
  
+ > [!IMPORTANT]
+ > - Time complexity:  `O(n)` Because no element is accessed more than four times (a constant). 
+ > - Space complexity: `O(n)` Because we are using an external data structure - stack.
+ 
  ## There are Four Patterns:
   ### [1] Next Greater
   > [!IMPORTANT]
