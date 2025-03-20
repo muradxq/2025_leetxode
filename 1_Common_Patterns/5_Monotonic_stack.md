@@ -7,9 +7,9 @@
 There are four types of monotonic stacks:
 |  |  |  |
 |----------|----------|----------|
-| **Strictly Increasing**  | Every element of the stack is strictly greater than the previous element.     | [1, 4, 5, 8, 9]        |
+| **Strictly Increasing**  | Every element of the stack is strictly greater than the previous element.     | [1, 4, 5, 8, 9, 10]    |
 | **Non-Decreasing**       | Every element of the stack is greater than or equal to the previous element.  | [1, 4, 5, 5, 8, 9, 9]  |
-| **Strictly Decreasing**  | Every element of the stack is strictly smaller than the previous element.     | [9, 8, 5, 4, 1]        |
+| **Strictly Decreasing**  | Every element of the stack is strictly smaller than the previous element.     | [9, 8, 5, 4, 2, 1, 0]  |
 | **Non-Increasing**       | Every element of the stack is smaller than or equal to the previous element.  | [9, 9, 8, 5, 5, 4, 1]  |
  
  ## There are 10 patterns of problems:
