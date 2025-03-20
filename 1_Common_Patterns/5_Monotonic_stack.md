@@ -20,13 +20,13 @@ There are four types of monotonic stacks:
    stack = []
    # Iterate through all the elements in the array
    for i in range(len(nums)):
-     while (stack is not empty and element represented by stack top `OPERATOR` arr[i]):
+     while ((len(stack) != 0) and stack top `OPERATOR` nums[i]):
         # If the previous condition is satisfied, we pop the top element
         stackTop = stack.pop()
         # Do something with stackTop here (nextGreater[stackTop] = i)
      if (len(stack) !=0):
         # If stack has some elements left
-        # Do something with stack top here (previousGreater[i] = stack.at(-1))
+        # Do something with stack top here (previousGreater[i] = stack[-1])
 
      # At the end, we push the current index into the stack
      stack.push(i)    
