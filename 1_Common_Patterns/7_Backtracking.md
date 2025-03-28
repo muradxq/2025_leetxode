@@ -18,8 +18,20 @@
   - **Recurse**: If the constraints are satisfied but the goal isn't reached, make a recursive call.
   - **Backtrack**: Remove the last chosen candidate if it leads to a dead end and try another candidate.
 
+### Implementing Backtracking
 ```python
- 
+def backtrack(candidate):
+  if find_solution(candidate):
+    output(candidate)
+    return
+  for next_candidate in list_of_candidates:
+    if is_valid(next_candidate):
+      # try this partial candidate solution
+      place(next_candidate)
+      # given the candidate explore further
+      backtrack(next_candidate)
+      # backtrack
+      remove(next_candidate)
 ```
 
    - [x] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
