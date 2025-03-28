@@ -8,8 +8,16 @@
   > [!IMPORTANT]
   > - Backtracking is a depth-first search (DFS) algorithm that builds solutions incrementally.
   > - It involves choosing a candidate, exploring further by recursively calling the function, and backtracking if the candidate leads to a dead end.
- 
-    
+  > - This technique is often used for problems involving permutations, combinations, and subsets.
+
+### Basic Operations in Backtracking:
+- The backtracking algorithm typically follows this pattern:
+  - Choose: Select a candidate from the set of possible options.
+  - Constraint: Check if the choice satisfies all constraints.
+  - Goal: Check if the current state is a valid solution.
+  - Recurse: If the constraints are satisfied but the goal isn't reached, make a recursive call.
+  - **Backtrack**: Remove the last chosen candidate if it leads to a dead end and try another candidate.
+
 ```python
  
 ```
