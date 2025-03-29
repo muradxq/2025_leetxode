@@ -34,4 +34,22 @@ def backtrack(candidate):
       remove(next_candidate)
 ```
 
+### Example: Subsets:
+Given an integer array nums of unique elements, return all possible subsets.
+- https://leetcode.com/problems/subsets/description/?envType=problem-list-v2&envId=backtracking
+
+```python
+def subsets(self, nums):
+  res = []
+  def backtrack(start, curr):
+    res.append(curr[:])
+    for i in range(start, len(nums)):
+      curr.append(nums[i])
+      backtrack(i+1, curr)
+      curr.pop()
+  
+  backtrack(0, [])
+  return res
+```
+
    - [x] [89. Gray Code](https://leetcode.com/problems/gray-code/description/)
