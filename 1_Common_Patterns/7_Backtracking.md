@@ -3,9 +3,9 @@
 #### References:
 - [LeetCode Pattern - Backtracking](https://blog.algomaster.io/p/81d42ca2-600c-4252-aa33-a56462090048)
 - [Problem-list Leetcode (Backtracking)](https://leetcode.com/problem-list/backtracking/)
-- [6.0 Introduction to Backtracking - Brute Force Approach](https://www.youtube.com/watch?v=DKCbsiDBN6c)
-- [6.1 N-Queens Problem using Backtracking](https://www.youtube.com/watch?v=xFv_Hl4B83A)
-- [6.2 Sum Of Subsets Problem - Backtracking](https://www.youtube.com/watch?v=kyLxTdsT8ws)
+- [(6.0) Introduction to Backtracking - Brute Force Approach](https://www.youtube.com/watch?v=DKCbsiDBN6c)
+- [(6.1) N-Queens Problem using Backtracking](https://www.youtube.com/watch?v=xFv_Hl4B83A)
+- [(6.2) Sum Of Subsets Problem - Backtracking](https://www.youtube.com/watch?v=kyLxTdsT8ws)
 
 ## Introduction: 
   > [!IMPORTANT]
