@@ -10,6 +10,13 @@
   > - Backtracking is a depth-first search (DFS) algorithm that builds solutions incrementally.
   > - It involves choosing a candidate, exploring further by recursively calling the function, and backtracking if the candidate leads to a dead end.
   > - This technique is often used for problems involving permutations, combinations, and subsets.
+  > - Brute Force approach finds all the possible solutions and selects desired solution per given the constraints.
+  > - Dynamic Programming also uses Brute Force approach to find the OPTIMUM solution, either maximum or minimum.
+  > - Backtracking also uses Brute Force approach but to find ALL the solutions.
+  > - Solutions to the Backtracking problems can be represented as State-Space Tree.
+  > - The constrained applied to find the solution is called Bounding function.
+  > - Backtracking follows Depth-First Search method.
+  > - Branch and Bound is also a Brute Force approach, which uses Breadth-First Search method.
 
 ### Basic Operations in Backtracking:
 - The backtracking algorithm typically follows this pattern:
