@@ -3,6 +3,7 @@
 #### References:
 - [LeetCode Pattern - Backtracking](https://blog.algomaster.io/p/81d42ca2-600c-4252-aa33-a56462090048)
 - [Problem-list Leetcode (Backtracking)](https://leetcode.com/problem-list/backtracking/)
+- [Introduction to Backtracking - Brute Force Approach](https://www.youtube.com/watch?v=DKCbsiDBN6c)
 
 ## Introduction: 
   > [!IMPORTANT]
