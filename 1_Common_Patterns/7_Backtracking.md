@@ -7,6 +7,7 @@
 - [(6.1) N-Queens Problem using Backtracking](https://www.youtube.com/watch?v=xFv_Hl4B83A)
 - [(6.2) Sum Of Subsets Problem - Backtracking](https://www.youtube.com/watch?v=kyLxTdsT8ws)
 - [(6.3) Graph Coloring Problem - Backtracking](https://www.youtube.com/watch?v=052VkKhIaQ4)
+- [(6.4) Hamiltonian Cycle - Backtracking](https://www.youtube.com/watch?v=dQr4wZCiJJ4)
 
 ## Introduction: 
   > [!IMPORTANT]
