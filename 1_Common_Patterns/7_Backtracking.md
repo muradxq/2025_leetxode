@@ -4,10 +4,10 @@
 - [LeetCode Pattern - Backtracking](https://blog.algomaster.io/p/81d42ca2-600c-4252-aa33-a56462090048)
 - [Problem-list Leetcode (Backtracking)](https://leetcode.com/problem-list/backtracking/)
 - [(6.0) Introduction to Backtracking](https://www.youtube.com/watch?v=DKCbsiDBN6c)
-- [(6.1) N-Queens Problem - Backtracking](https://www.youtube.com/watch?v=xFv_Hl4B83A)
-- [(6.2) Sum Of Subsets Problem - Backtracking](https://www.youtube.com/watch?v=kyLxTdsT8ws)
-- [(6.3) Graph Coloring Problem - Backtracking](https://www.youtube.com/watch?v=052VkKhIaQ4)
-- [(6.4) Hamiltonian Cycle - Backtracking](https://www.youtube.com/watch?v=dQr4wZCiJJ4)
+- [(6.1) Backtracking - N-Queens Problem](https://www.youtube.com/watch?v=xFv_Hl4B83A)
+- [(6.2) Backtracking - Sum Of Subsets Problem](https://www.youtube.com/watch?v=kyLxTdsT8ws)
+- [(6.3) Backtracking - Graph Coloring Problem](https://www.youtube.com/watch?v=052VkKhIaQ4)
+- [(6.4) Backtracking - Hamiltonian Cycle](https://www.youtube.com/watch?v=dQr4wZCiJJ4)
 
 ## Introduction: 
   > [!IMPORTANT]
