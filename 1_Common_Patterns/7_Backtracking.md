@@ -59,7 +59,7 @@ def subsets(self, nums):
       curr.append(nums[i])
       backtrack(i+1, curr)
       curr.pop()
-  
+
   backtrack(0, [])
   return res
 ``` 
@@ -73,15 +73,26 @@ def Permutate(self, nums):
       res.append(nums[:])
     for i in range(start, len(nums)):
       nums[start], nums[i] = nums[i], nums[start]
-  backtrack(0, [])
+      backtrack(start+1)
+      nums[start], nums[i] = nums[i], nums[start]
+  backtrack(0)
   return res
 ```
 #### [3. Combination Sum](https://leetcode.com/problems/permutations/description/?envType=problem-list-v2&envId=backtracking):
--  
+-  Given an array of distinct integers candidates and a target integer target, return all unique combinations in candidates where the candidate numbers sum to target. Each number in candidates may be used an unlimited number of times.
 ```python
-def Permutate(self, nums):
+def combination_sum(candidate, target):
   res = []
-  def backtrack(start, curr):
+  def backtrack(start, path, remaining):
+    if remaining == 0:
+      res.append(path[:])
+      return
+    for i in range(start, len(candidate)):
+      if candidate[i] > remaining:
+          continue
+      path.append(candidate[i])
+      backtrack(start+1, path, remaining)
+      path.pop()
   backtrack(0, [])
   return res
 ``` 
