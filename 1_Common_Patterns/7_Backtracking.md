@@ -68,7 +68,11 @@ def subsets(self, nums):
 ```python
 def Permutate(self, nums):
   res = []
-  def backtrack(start, curr):
+  def backtrack(start):
+    if start == len(nums):
+      res.append(nums[:])
+    for i in range(start, len(nums)):
+      nums[start], nums[i] = nums[i], nums[start]
   backtrack(0, [])
   return res
 ```
