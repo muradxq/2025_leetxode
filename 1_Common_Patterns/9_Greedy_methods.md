@@ -8,7 +8,7 @@
 - [3.4 Huffman Coding - Greedy Method](https://www.youtube.com/watch?v=co4_ahEDCho&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=44)
 - [3.5 Prims and Kruskals Algorithms - Greedy Method](https://www.youtube.com/watch?v=4ZlRH0eK-qQ&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=45)
 - [3.6 Dijkstra Algorithm - Single Source Shortest Path - Greedy Method](https://www.youtube.com/watch?v=XB4MIexjvY0&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=46)
-
+- [LeetCode Pattern - Backtracking](https://leetcode.com/problem-list/greedy/)
 
 ## Introduction:
    ###  1. M 
