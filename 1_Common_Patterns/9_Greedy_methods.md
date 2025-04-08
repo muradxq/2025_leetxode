@@ -1,7 +1,7 @@
 # Greedy Methods
 
 ### References:
-- [*][3. Greedy Method - Introduction](https://www.youtube.com/watch?v=ARvQcqJ_-NY&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=41)
+[*][3. Greedy Method - Introduction](https://www.youtube.com/watch?v=ARvQcqJ_-NY&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=41)
 - [3.1 Knapsack Problem - Greedy Method](https://www.youtube.com/watch?v=oTTzNMHM05I&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=41)
 - [3.2 Job Sequencing with Deadlines - Greedy Method](https://www.youtube.com/watch?v=zPtI8q9gvX8&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=42)
 - [3.3 Optimal Merge Pattern - Greedy Method](https://www.youtube.com/watch?v=HHIc5JZyenI&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=43)
