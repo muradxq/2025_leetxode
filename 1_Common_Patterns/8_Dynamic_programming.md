@@ -2,6 +2,17 @@
 
 ### References:
 - [Dynamic Programming Patterns](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)
+- []() 
+- []() 
+- []() 
+- []() 
+- []() 
+- []() 
+- []() 
+- []() 
+- []() 
+- []() 
+- [LeetCode Pattern - Dynamic Programming](https://leetcode.com/problem-list/dynamic-programming/)
 
 ## There are five patterns:
    ###  1. Minimum (Maximum) Path to Reach a Target
